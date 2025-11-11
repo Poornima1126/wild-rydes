@@ -1,6 +1,6 @@
 window._config = {
     cognito: {
-        userPoolId: 'ap-south-1_M6MQ6jEdm', // e.g. us-east-2_uXboG5pAb
+        userPoolId: 'ap-south-1_LGxyXQZz0', // e.g. us-east-2_uXboG5pAb
         userPoolClientId: '2323iieajfv71a6tknv6vue313', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
         region: 'ap-south-1' // e.g. us-east-2
     },
@@ -8,5 +8,6 @@ window._config = {
         invokeUrl: 'https://huf30pzrpb.execute-api.ap-south-1.amazonaws.com/prods' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
+
 
 
